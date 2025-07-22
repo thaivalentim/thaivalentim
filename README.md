@@ -4,23 +4,42 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
 
 ### 🚀 Sobre mim
 - 🎓 Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas em formação.
-- ⚙️ Experiência com linguagens como **C**, **C++**, **C#** e **Python**, tanto para desenvolvimento geral quanto para **programação embarcada** em microcontroladores como o STM32.
+- ⚙️ Experiência com linguagens como **C**, **C++**, **C#** e **Python**, tanto para desenvolvimento geral quanto para **programação embarcada**.
+- 💻 Aplicações em plataformas como **VS Code**, **Unity Hub**, **Arduino** e **STM32**.
 - 💡 Entusiasta de **teoria de código**, algoritmos e sistemas computacionais.
 - 💾 Interesse em **estruturas de dados** e **bancos de dados**. Possuo familiaridade com **MongoDB** e outros sistemas NoSQL/SQL.
 - 🌐 Pretendo aprofundar meu conhecimento em tecnologias de **Front-end e Back-end**, entre elas:
   - HTML, CSS, JavaScript
   - Java e Django
   - Node.js e frameworks modernos
-- 🧠 Com curiosidade por **sistemas operacionais**, **arquitetura de computadores** e **design de software**, pretendo seguir na área da programação e me especializar com ensino superior voltado à engenharia da computação. 
+- 🧠 Pretendo seguir na área da programação e me especializar com ensino superior voltado à **Engenharia da Computação**.
+
+### 📊 Estatísticas
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=thaivalentim&show_icons=true&theme=radical&hide_rank=true" width="420" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaivalentim&langs_count=6&theme=radical&layout=compact" width="420" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
 
 ### 📌 Objetivos atuais
 - Aprofundar conhecimentos em **desenvolvimento full-stack**.
@@ -33,4 +52,11 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
 - ✍️ Gosto de me expressar por meio da **escrita** e de **desenhos**.
 
 ### 📫 Contato
-- ✉️ Email: thaizavalentim@icloud.com
+<p align="left">
+  <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/thai.valent3/profilecard/?igsh=MWlmbWplazRwcTE5ZA==" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
