@@ -41,16 +41,6 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
-### 📌 Objetivos atuais
-- Aprofundar conhecimentos em **desenvolvimento full-stack**.
-- Explorar **design de sistemas**, **padrões de arquitetura de software** e **engenharia de dados**.
-- Construir e compartilhar projetos com base em **tecnologia aplicada** e **inovação**.
-
-### 🎨 Curiosidades
-- 🎧 Ouvinte assídua de **música popular brasileira** e **rock britânico**.
-- 📚 **Apreciadora da Literatura**, especialmente dos segmentos voltados à filosofia e ao romance.
-- ✍️ Gosto de me expressar por meio da **escrita** e de **desenhos**.
-
 ### 📫 Contato
 <p align="left">
   <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
