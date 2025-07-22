@@ -42,7 +42,7 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
 </p>
 
 ### 📫 Contato
-<p align="left">
+<p align="center">
   <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
