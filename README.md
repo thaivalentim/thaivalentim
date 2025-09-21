@@ -19,8 +19,8 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
 
 ### 🛠️ Tecnologias e Ferramentas
 
+**Linguagens:**  
 <p align="center">
-  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
@@ -30,21 +30,16 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
+**Banco de Dados:**  
 <p align="center">
-  <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
+**Frameworks e Ferramentas:**  
 <p align="center">
-  <!-- Frameworks e Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
-  <span style="font-size: 32px; font-weight:bold;">⚡ STM32 ⚡</span>
-</p>
-
-<p align="center">
-  <!-- Outros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
