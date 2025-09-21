@@ -33,6 +33,7 @@ Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a prime
 **Banco de Dados:**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
 **Frameworks e Ferramentas:**  
