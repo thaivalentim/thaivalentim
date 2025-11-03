@@ -1,6 +1,8 @@
-## Oi! 👋
+## 👋 Oi!
 
-Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC.
+**Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas** pela **ETE FMC**.
+
+---
 
 ### 📊 Estatísticas
 
@@ -17,9 +19,11 @@ Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC.
   </table>
 </div>
 
+---
+
 ### 🛠️ Tecnologias, Ferramentas e Prêmios
 
-**Linguagens:**  
+**💻 Linguagens:**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -30,14 +34,16 @@ Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
-**Banco de Dados:**  
+**🗄️ Banco de Dados:**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
-**Frameworks e Ferramentas:**  
+**⚙️ Frameworks e Ferramentas:**  
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
@@ -45,18 +51,26 @@ Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
-**Projetos premiados**  
+---
+
+**🏆 Projetos Premiados:**  
 <p align="center">
-  🥇 EKKO: Melhor projeto na categoria Desenvolvimento de Sistemas pelo INATEL | Projete 2025
-  🥇 MNTT: Projeto vencedor na categoria criatividade | Hackathon ETE FMC 2025
+  🥇 <strong>EKKO</strong> — Melhor projeto na categoria <em>Desenvolvimento de Sistemas</em> pelo INATEL | <strong>Projete 2025</strong> <br>
+  🥇 <strong>MNTT</strong> — Projeto vencedor na categoria <em>Criatividade</em> | <strong>Hackathon ETE FMC 2025</strong>
 </p>
+
+---
 
 ### 📫 Contato
 <p align="center">
   <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/thai.valent3/profilecard/?igsh=MWlmbWplazRwcTE5ZA==" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+⭐ _"Tecnologia é a ponte entre a imaginação e o que pode ser construído."_  
