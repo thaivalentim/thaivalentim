@@ -63,10 +63,6 @@
 
 ### 📫 Contato
 <p align="center">
-  📧 **Email:** [thaizavalentim@icloud.com](mailto:thaizavalentim@icloud.com)
-</p>
-
-<p align="center">
   <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
