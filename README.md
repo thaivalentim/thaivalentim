@@ -1,6 +1,6 @@
 ## Oi! 👋
 
-Atualmente, sou estudante de Desenvolvimento de Sistemas na **ETE FMC**, a primeira escola técnica de eletrônica da América Latina. 
+Técnica em ELetrônica com ênfase em Desenvolvimento de Sistemas | ETE FMC
 
 ### 📊 Estatísticas
 
