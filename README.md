@@ -1,6 +1,6 @@
 ## Oi! 👋
 
-Técnica em ELetrônica com ênfase em Desenvolvimento de Sistemas | ETE FMC
+Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC.
 
 ### 📊 Estatísticas
 
@@ -17,7 +17,7 @@ Técnica em ELetrônica com ênfase em Desenvolvimento de Sistemas | ETE FMC
   </table>
 </div>
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias, Ferramentas e Prêmios
 
 **Linguagens:**  
 <p align="center">
@@ -43,6 +43,12 @@ Técnica em ELetrônica com ênfase em Desenvolvimento de Sistemas | ETE FMC
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+**Projetos premiados**  
+<p align="center">
+  🥇 EKKO: Melhor projeto na categoria Desenvolvimento de Sistemas pelo INATEL | Projete 2025
+  🥇 MNTT: Projeto vencedor na categoria criatividade | Hackathon ETE FMC 2025
 </p>
 
 ### 📫 Contato
