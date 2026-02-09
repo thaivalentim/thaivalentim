@@ -1,23 +1,6 @@
-## 👋 Oi!
+## 👋 Bem-vindo ao meu perfil no Github!
 
-**Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas** pela **ETE FMC**.
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thaivalentim&show_icons=true&theme=radical&hide_rank=true" width="420" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaivalentim&langs_count=6&theme=radical&layout=compact" width="420" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas** pela **ETE FMC**, **estudante de Engenharia de Computação** no **Inatel** e interessada pelo mundo da tecnologia e programação.
 
 ---
 
