@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil no Github!
 
-**Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas** pela **ETE FMC**, **estudante de Engenharia de Computação** no **Inatel** e interessada pelo mundo da tecnologia e programação.
+**Técnica em Eletrônica com ênfase em Desenvolvimento de Sistemas** pela **ETE FMC**, **estudante de Engenharia de Computação** no **Inatel** e **estagiária de Software Embarcado & Hardware** no **Inatel Competence Center**.
 
 ---
 
