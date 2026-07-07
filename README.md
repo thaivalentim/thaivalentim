@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-Firmware Technician at **Inatel Competence Center** and **Computer Engineering undergraduate** at Inatel.
+Firmware Technician at Inatel Competence Center and Computer Engineering undergraduate at Inatel.
 
 I develop firmware for embedded systems using **C**, **Zephyr RTOS**, and **ESP-IDF**, with a strong interest in software architecture, real-time operating systems, device drivers, and low-level programming.
 
