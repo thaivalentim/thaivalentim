@@ -1,4 +1,4 @@
-## 👋 Hi There
+## Wellcome to my Github profile!
 
 Firmware Technician at Inatel Competence Center. Computer Engineering undergraduate student at Inatel. Electronics Technician, with emphasis on Systems Development, graduated from ETE FMC in 2025.
 
@@ -20,7 +20,6 @@ I work on firmware development for embedded systems, focusing on C and real-time
 ## Embedded Systems and RTOS
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" title="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" width="36" title="PlatformIO" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Embedded Linux" />
   <img src="https://img.shields.io/badge/Zephyr-000000?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr" />
   <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF" />
