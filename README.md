@@ -6,7 +6,7 @@ I work on firmware developmente for embedded systems, focusing on C and real-tim
 
 ---
 
-### Languages
+## Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" />
@@ -46,7 +46,7 @@ I work on firmware developmente for embedded systems, focusing on C and real-tim
 
 ---
 
-### Contact me 
+## Contact me 
 <p align="center">
   <a href="mailto:thaizavalentim@icloud.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
